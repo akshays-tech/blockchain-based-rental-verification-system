@@ -1,0 +1,1 @@
+// App.jsx with fully wired buttons and wallet connection (simplified)
